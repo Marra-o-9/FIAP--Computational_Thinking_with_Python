@@ -1,0 +1,6 @@
+Gravando dicionário bruto: 
+{'nome': 'Henrique Marra Barbosa', 'idade': 20, 'celular': 11910303718}
+Nome.......: Henrique Marra Barbosa
+Número.....: 20
+Banda......: 11910303718
+Inserindo uma nova linha

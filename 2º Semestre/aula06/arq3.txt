@@ -1,0 +1,4 @@
+Gravação da lista bruta: ['Marra', 9, 'Numeri']
+Nome.......: Marra
+Número.....: 9
+Banda......: Numeri
